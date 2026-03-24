@@ -1,6 +1,6 @@
 # 🌱 자바 스터디
 
-자바 스터디를 위한 공간입니다. [📒 Discussion 바로가기](https://github.com/orgs/2025-Java-Study/discussions)  
+자바 스터디를 위한 공간입니다. [📒 Discussion 바로가기](https://github.com/orgs/Java-Deep-Dive-Study/discussions)  
 
 
 인프런 강의를 중심으로 공부하며, 다음 로드맵의 순서에 따라 진행합니다.  
